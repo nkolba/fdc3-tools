@@ -1,0 +1,11 @@
+{
+    "Context": ["https://fdc3.finos.org/schemas/1.1/context.schema.json"],
+    "Contact": ["https://fdc3.finos.org/schemas/1.1/contact.schema.json"],
+    "ContactList": ["https://fdc3.finos.org/schemas/1.1/contactList.schema.json"],
+    "Instrument": ["https://fdc3.finos.org/schemas/1.1/instrument.schema.json"],
+    "InstrumentList": ["https://fdc3.finos.org/schemas/1.1/instrumentList.schema.json"],
+    "Country": ["https://fdc3.finos.org/schemas/1.1/country.schema.json"],
+    "Organization": ["https://fdc3.finos.org/schemas/1.1/organization.schema.json"],
+    "Portfolio": ["https://fdc3.finos.org/schemas/1.1/portfolio.schema.json"],
+    "Position": ["https://fdc3.finos.org/schemas/1.1/position.schema.json"]
+}
